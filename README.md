@@ -1,16 +1,12 @@
-### Hi there 👋
+### 🌱 Walk to the water, sit and watch the clouds rise 
+| 这个人很懒 |  什么也不会留下 |
+| - | - |
+| html,css,javascript | 初出茅庐 |
+| 偷懒 | 登堂入室 |
+| 读书 | 炉火纯青 |
 
-<!--
-**lbf911531/lbf911531** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### git detail
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Stats](https://github-readme-stats.vercel.app/api?username=lbf911531&theme=merko)
+<br />
+![Lang](https://github-readme-stats.vercel.app/api/top-langs/?username=lbf911531&theme=merko)
